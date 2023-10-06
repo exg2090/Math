@@ -116,6 +116,13 @@ var apps = [
       'url': 'https://cattn.github.io/gba',
       "image": "https://cattn.github.io/gba/pwa/apple-icon-180.png",
       "description": "A Game Boy Advance retro emulator with over 3000 games, and other consoles as well"
+    },
+    {
+      'id': 'github',
+      'title': 'GitHub',
+      'url': 'https://github.com/',
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/200px-GitHub_Invertocat_Logo.svg.png",
+      "description": "Make you're own site or get hacks!"
     }
   ]
   
